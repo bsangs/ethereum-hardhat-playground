@@ -26,6 +26,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "16.18.1",
+    "javascript.nodejs.core.library.typings.version": "16.18.1",
     "last_opened_file_path": "/Users/bsangs/dev/research/ethereum-hardhat-playground",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -49,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681195375979</updated>
-      <workItem from="1681195377130" duration="4386000" />
+      <workItem from="1681195377130" duration="6308000" />
     </task>
     <servers />
   </component>
